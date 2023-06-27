@@ -13,7 +13,7 @@ npm run build:all
 已有 `examples/webtools` 进行调试
 
 ```sh
-cd examples/webtools
+cd examples/web-tools
 npm run doctor:webtools
 ```
 
